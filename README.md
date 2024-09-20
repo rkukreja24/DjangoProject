@@ -1,4 +1,4 @@
-<img width="1724" alt="Signup" src="https://github.com/user-attachments/assets/2b606585-6829-45d6-8baf-0af6f0fa7dba">### Project Title: **Login System**
+### Project Title: **Login System**
 
 ---
 

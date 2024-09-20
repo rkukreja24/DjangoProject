@@ -83,7 +83,7 @@ python manage.py runserver
 #### **Screenshots**
 - **Signup Page**: Display a filled-out form for new user registration.
 
-![Signup Page Screenshot](./LoginSystem/Images/signup.png)
+![Signup Page Screenshot](./LoginSystem/Images/Signup.png)
 
 - **Login Page**: Show the login form.
 

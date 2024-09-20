@@ -63,7 +63,7 @@ python manage.py runserver
 ### **Features**
 
 #### **1. User Registration (Signup)**
-- Form fields for name, email (unique), and password.
+- Form fields for username, email (unique), and password.
 - Redirects to login page upon successful signup.
 
 #### **2. User Login**

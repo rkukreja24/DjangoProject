@@ -1,4 +1,4 @@
-### Project Title: **Login System**
+<img width="1724" alt="Signup" src="https://github.com/user-attachments/assets/2b606585-6829-45d6-8baf-0af6f0fa7dba">### Project Title: **Login System**
 
 ---
 
@@ -77,42 +77,50 @@ python manage.py runserver
 #### **4. CRUD Operations (via API)**
 - **Create**: Add new user details.
 - **Read**: Retrieve details of all users or a specific user by email.
-- **Update**: Modify user details (except email).
+- **Update**: Modify user details.
 - **Delete**: Remove a user by email.
 
 #### **Screenshots**
 - **Signup Page**: Display a filled-out form for new user registration.
+
+![Signup Page Screenshot](./images/login_page_screenshot.png)
+
 - **Login Page**: Show the login form.
+
+![Login Page Screenshot](./images/login_page_screenshot.png)
+
 - **Profile Management Page**: Showcase the user profile details.
+
+  ![Admin Screenshot](./images/login_page_screenshot.png)
+  
 - **Postman CRUD Testing**: Include screenshots of successful API requests (GET, POST, PUT/PATCH, DELETE).
+
+  ![All Users Screenshot](./images/login_page_screenshot.png)
+
+  ![One User Screenshot](./images/login_page_screenshot.png)
+
+  ![Update User Screenshot](./images/login_page_screenshot.png)
+
+  ![Delete User Screenshot](./images/login_page_screenshot.png)
 
 ---
 
 ### **How to Use**
 
 1. **Signup**:
-   - Navigate to `/signup/` and fill out the form.
+   - Navigate to `loginify/signup/` and fill out the form.
    - After successful registration, you will be redirected to the login page.
 
 2. **Login**:
-   - Navigate to `/login/`, enter email and password, and submit.
-   - On success, the system will display a confirmation message.
+   - Navigate to `loginify/login/`, enter email and password, and submit.
+   - On success, you will be redirected to the success page.
 
 3. **CRUD Operations**:
    - Use Postman to test API endpoints:
-     - `/get_all_users/`: Retrieve all user details.
-     - `/one_user/<email>/`: Retrieve a single user.
-     - `/update_user/<email>/`: Update user details (name or password).
-     - `/delete_user/<email>/`: Delete a user.
-
----
-
-### **Postman API Testing**
-Include screenshots of:
-- **GET Request**: Show all users retrieved successfully.
-- **POST Request**: Show user created with status 201.
-- **PATCH Request**: Show an update operation on user details.
-- **DELETE Request**: Show a user deleted with status 200.
+     - `loginify/get_all_users/`: Retrieve all user details.
+     - `loginify/one_user/<email>/`: Retrieve a single user.
+     - `loginify/update_user/<email>/`: Update user details.
+     - `loginify/delete_user/<email>/`: Delete a user.
 
 ---
 

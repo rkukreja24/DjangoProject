@@ -87,21 +87,25 @@ python manage.py runserver
 
 - **Login Page**: Show the login form.
 
-![Login Page Screenshot](./images/login_page_screenshot.png)
+![Login Page Screenshot](./LoginSystem/Images/Login.png)
+
+- **Success Page**: It is a Welcome page.
+
+![Welcome Screenshot](./LoginSystem/Images/Welcome.png)
 
 - **Profile Management Page**: Showcase the user profile details.
 
-  ![Admin Screenshot](./images/login_page_screenshot.png)
+  ![Admin Screenshot](./LoginSystem/Images/Admin.png)
   
 - **Postman CRUD Testing**: Include screenshots of successful API requests (GET, POST, PUT/PATCH, DELETE).
 
-  ![All Users Screenshot](./images/login_page_screenshot.png)
+  ![All Users Screenshot](./LoginSystem/Images/AllUsers.png)
 
-  ![One User Screenshot](./images/login_page_screenshot.png)
+  ![One User Screenshot](./LoginSystem/Images/OneUser.png)
 
-  ![Update User Screenshot](./images/login_page_screenshot.png)
+  ![Update User Screenshot](./LoginSystem/Images/UpdateUser.png)
 
-  ![Delete User Screenshot](./images/login_page_screenshot.png)
+  ![Delete User Screenshot](./LoginSystem/Images/DeleteUser.png)
 
 ---
 
